@@ -5,6 +5,7 @@ description = "Add your description here"
 readme = "README.md"
 requires-python = ">=3.12"
 dependencies = [
+    "arxiv>=2.4.0",
     "groq>=0.37.1",
     "ipykernel>=7.1.0",
     "langchain>=1.2.0",
@@ -14,4 +15,5 @@ dependencies = [
     "langchain-openai>=1.1.6",
     "langgraph>=1.0.5",
     "python-dotenv>=1.2.1",
+    "wikipedia>=1.4.0",
 ]
